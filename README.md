@@ -20,7 +20,7 @@ I wrote this BASIC program for a Tandy Color Computer 3 that simulates the probl
 I have a replica of a PDP8/I in my den; maybe I will write a version for that machine, too.
 
 The program is written to use my BASIC preprocessor so the code can be all pretty, and the preprocessor converts it to
-sensible, legal BASIC for the Coco3.  See my [https://github.com/yggdrasilradio/preprocessor](preprocessor) repository for that.
+sensible, legal BASIC for the Coco3.  See my [preprocessor](https://github.com/yggdrasilradio/preprocessor) repository for that.
 
 Look in the [redistribute](https://github.com/yggdrasilradio/monty/tree/master/redistribute) folder for the program in normal DECB ASCII format.
 
