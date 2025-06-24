@@ -7,9 +7,10 @@ The Monty Hall problem is a famous probability puzzle rooted in a deceptively si
 A contestant is presented with three doors: behind one is a prize (say, a shiny new car), and behind the other two, goats.
 
 After the contestant picks a door, the host&mdash;Monty Hall&mdash;who _knows_ what’s behind each door, opens one of the remaining two to reveal
-a goat. The contestant is then given a choice: stick with the original selection, or switch to the other unopened door.
+a goat. The contestant is then given a choice: keep the original selection, or switch to the other unopened door.
 
-It turns out that by switching, the contestant has a 2/3 chance of winning the car, compared to 1/3 if they stick.
+It turns out that by switching, the contestant has a 2/3 chance of winning the car, compared to 1/3 if
+they stay with their original decision.
 
 Yeah, that's not what your intuition says, and I didn't believe it either until I wrote a BASIC program for a PDP8/I computer back
 in the '70s and ran a simulation a couple of thousand times.
