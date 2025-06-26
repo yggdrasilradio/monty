@@ -4,6 +4,8 @@
 
 	' Init display
 	width 80
+	palette 0, 0  	' black background
+	palette 9, 22	' green text
 
 	' Randomize the RND function
 	r = rnd(-timer)
