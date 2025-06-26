@@ -12,7 +12,7 @@ a goat. The contestant is then given a choice: keep the original selection, or s
 It turns out that by switching, the contestant has a 2/3 chance of winning the car, compared to 1/3 if
 they stay with their original decision.
 
-Yeah, that's not what your intuition says, and I didn't believe it either until I wrote a BASIC program for a PDP8/I computer back
+Does that sound crazy? Yeah, I didn't believe it either until I wrote a BASIC program for a PDP8/I computer back
 in the '70s and ran a simulation a couple of thousand times.
 
 For more historical context and mathematical breakdowns, check out the [Monty Hall problem on Wikipedia](https://en.wikipedia.org/wiki/Monty_Hall_problem).
