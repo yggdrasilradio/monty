@@ -12,7 +12,7 @@
 	on brk goto 3000
 
 	' User input
-	print "Monty Hall problem"
+10	print "Monty Hall problem"
 	print
 	print "Are we going to switch (Y/N)";
 	input a$
@@ -20,9 +20,6 @@
 	print "How many repetitions";
 	input n
 
-	' Double speed poke
-	poke &hffd9, 0
-	
 	' Let's play the game repeatedly
 	for i = 1 to n
 		gosub 1000
@@ -32,9 +29,8 @@
 	print
 	print "Wins:"; w
 	print "Losses:"; l
-
-	' Hang forever
-10	goto 10
+	print
+	goto 10
 
 	' Load up the doors with goats
 1000	d$(1) = "G"
